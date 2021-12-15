@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krishnendu Roy</h1>
 <h3 align="center">I'm Computer Science and Engineering Student(2nd Year)</h3>
-![Header](https://user-images.githubusercontent.com/42006435/146249689-f97cce65-8bc6-4cf6-80e4-f5879a996d73.png)
+<img align="center" src="https://user-images.githubusercontent.com/42006435/146249689-f97cce65-8bc6-4cf6-80e4-f5879a996d73.png" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/krishne99697898" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krishne99697898" height="30" width="40" /></a>
