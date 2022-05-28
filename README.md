@@ -200,20 +200,20 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-## 📺 Latest YouTube videos
+<!-- ## 📺 Latest YouTube videos -->
 
 <!-- Feed workflow - https://github.com/gautamkrishnar/blog-post-workflow -->
 <!-- YouTube Cards - WIP by DenverCoder1 -->
 
 <!-- YOUTUBE:START -->
-[![Making a Wordle Clone Discord Bot with Python &lpar;Nextcord&rpar;](https://freshidea.com/jonah/app/youtube-card/?id=0p_eQGKFY3I)](https://www.youtube.com/watch?v=0p_eQGKFY3I "Making a Wordle Clone Discord Bot with Python &lpar;Nextcord&rpar;")
-[![Run Open Source Code in Seconds with GitPod](https://freshidea.com/jonah/app/youtube-card/?id=Mt_Bsj6K9Lw)](https://www.youtube.com/watch?v=Mt_Bsj6K9Lw "Run Open Source Code in Seconds with GitPod")
-[![Custom Help Commands [#2] Select Menus - Python Discord Bot](https://freshidea.com/jonah/app/youtube-card/?id=xsA5QAkr-04)](https://www.youtube.com/watch?v=xsA5QAkr-04 "Custom Help Commands [#2] Select Menus - Python Discord Bot")
-[![Custom Help Commands [#1] Embeds - Python Discord Bot](https://freshidea.com/jonah/app/youtube-card/?id=TzR8At0SFQI)](https://www.youtube.com/watch?v=TzR8At0SFQI "Custom Help Commands [#1] Embeds - Python Discord Bot")
-[![Assigning Roles with Buttons - Python Discord Bot Tutorial](https://freshidea.com/jonah/app/youtube-card/?id=jMeOejBy8Hc)](https://www.youtube.com/watch?v=jMeOejBy8Hc "Assigning Roles with Buttons - Python Discord Bot Tutorial")
-[![Migrating Discord Bots from Discord.py to Nextcord](https://freshidea.com/jonah/app/youtube-card/?id=lzyd5wHzDmU)](https://www.youtube.com/watch?v=lzyd5wHzDmU "Migrating Discord Bots from Discord.py to Nextcord")<!-- YOUTUBE:END -->
+<!-- [![Making a Wordle Clone Discord Bot with Python &lpar;Nextcord&rpar;](https://freshidea.com/jonah/app/youtube-card/?id=0p_eQGKFY3I)](https://www.youtube.com/watch?v=0p_eQGKFY3I "Making a Wordle Clone Discord Bot with Python &lpar;Nextcord&rpar;") -->
+<!-- [![Run Open Source Code in Seconds with GitPod](https://freshidea.com/jonah/app/youtube-card/?id=Mt_Bsj6K9Lw)](https://www.youtube.com/watch?v=Mt_Bsj6K9Lw "Run Open Source Code in Seconds with GitPod") -->
+<!-- [![Custom Help Commands [#2] Select Menus - Python Discord Bot](https://freshidea.com/jonah/app/youtube-card/?id=xsA5QAkr-04)](https://www.youtube.com/watch?v=xsA5QAkr-04 "Custom Help Commands [#2] Select Menus - Python Discord Bot") -->
+<!-- [![Custom Help Commands [#1] Embeds - Python Discord Bot](https://freshidea.com/jonah/app/youtube-card/?id=TzR8At0SFQI)](https://www.youtube.com/watch?v=TzR8At0SFQI "Custom Help Commands [#1] Embeds - Python Discord Bot") -->
+<!-- [![Assigning Roles with Buttons - Python Discord Bot Tutorial](https://freshidea.com/jonah/app/youtube-card/?id=jMeOejBy8Hc)](https://www.youtube.com/watch?v=jMeOejBy8Hc "Assigning Roles with Buttons - Python Discord Bot Tutorial") -->
+<!-- [![Migrating Discord Bots from Discord.py to Nextcord](https://freshidea.com/jonah/app/youtube-card/?id=lzyd5wHzDmU)](https://www.youtube.com/watch?v=lzyd5wHzDmU "Migrating Discord Bots from Discord.py to Nextcord")<!-- YOUTUBE:END --> -->
 
-[<img src="https://custom-icon-badges.herokuapp.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/DevProTips?sub_confirmation=1)
+<!-- [<img src="https://custom-icon-badges.herokuapp.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/DevProTips?sub_confirmation=1) -->
 
 ## 🔥 Coding stats
 
@@ -243,18 +243,19 @@
 
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
-<details>
+<!-- <details>
   <summary>⚡ Recent GitHub Activity</summary>
-  <br/>
+  <br/> -->
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#236](https://github.com/DenverCoder1/github-readme-streak-stats/issues/236) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+<!-- 1. ❗️ Opened issue [#236](https://github.com/DenverCoder1/github-readme-streak-stats/issues/236) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 2. 🎉 Merged PR [#435](https://github.com/DenverCoder1/custom-icon-badges/pull/435) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
 3. 🗣 Commented on [#435](https://github.com/DenverCoder1/custom-icon-badges/issues/435) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
 4. 🎉 Merged PR [#343](https://github.com/DenverCoder1/jct-discord-bot/pull/343) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-5. 🎉 Merged PR [#436](https://github.com/DenverCoder1/custom-icon-badges/pull/436) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+5. 🎉 Merged PR [#436](https://github.com/DenverCoder1/custom-icon-badges/pull/436) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges) -->
 <!--END_SECTION:activity-->
-</details>
+<!-- </details> -->
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/krishnenduroy52/github-readme-activity-graph"><img alt="krishnenduroy52's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=krishnenduroy52&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
