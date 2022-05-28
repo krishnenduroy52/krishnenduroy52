@@ -221,7 +221,7 @@
 <details> 
 <summary>💻 Leetcode Profile Stats</summary>
   
-    ![Leetcode Stats](https://leetcode.card.workers.dev/?username=krishnendu52&theme=nord&extension=activity)
+   ![Leetcode Stats](https://leetcode.card.workers.dev/?username=krishnendu52&theme=nord&extension=activity)
     
 </details>
 
