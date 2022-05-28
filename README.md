@@ -231,12 +231,8 @@
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
-    <a href="https://github.com/krishnenduroy52/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnenduroy52&repo=github-readme-stats" height="192px"/>
-    </a>
-    <a href="https://github.com/krishnenduroy52/convoychat">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnenduroy52&repo=convoychat" height="192px" />
-    </a>
+    
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishnenduroy52&show_icons=true&theme=radical) ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnenduroy52&layout=compact)
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
