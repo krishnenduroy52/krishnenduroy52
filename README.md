@@ -5,7 +5,7 @@
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+a+passionate+developer;Full+Stack+Web+Developer)](https://git.io/typing-svg)
   <br/>
-  Computer Science and Engineering Student(2nd Year)
+  Computer Science and Engineering Student(3nd Year)
   <br/>
   <br/>
 <img align="center" src="https://user-images.githubusercontent.com/42006435/146249689-f97cce65-8bc6-4cf6-80e4-f5879a996d73.png" />
