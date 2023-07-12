@@ -9,7 +9,7 @@
   <br/>
   <br/>
 <img align="center" src="https://user-images.githubusercontent.com/42006435/146249689-f97cce65-8bc6-4cf6-80e4-f5879a996d73.png" />
-  <!-- Typing SVG by DenverCoder1 - https://github.com/Krishnendu/readme-typing-svg -->
+  <!-- Typing SVG by Krishnendu Roy - https://github.com/Krishnendu/readme-typing-svg -->
   
   
 </h3>   
