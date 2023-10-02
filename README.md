@@ -3,9 +3,13 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   <br/>
   
+  <p align="center">
+    
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+a+passionate+developer;Full+Stack+Web+Developer)](https://git.io/typing-svg)
+
+  </p>
   <br/>
-  Computer Science and Engineering Student(3nd Year)
+  Computer Science and Engineering Student(4th Year)
   <br/>
   <br/>
 <img align="center" src="https://user-images.githubusercontent.com/42006435/146249689-f97cce65-8bc6-4cf6-80e4-f5879a996d73.png" />
